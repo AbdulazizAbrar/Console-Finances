@@ -1,9 +1,9 @@
 # Console-Finances
 
-I just created a password generator webpage using HTML,CSS,and,Javascript and it was a super fun.
+ i made a console- finance page using Html,Css,and Javascript. 
 
 Demo URL - [
 ](https://abdulazizabrar.github.io/Console-Finances/)https://abdulazizabrar.github.io/Console-Finances/
 
-![Screenshot](assests/console-finances.png)
+![Screenshot](assets/console-finances.png)
 
